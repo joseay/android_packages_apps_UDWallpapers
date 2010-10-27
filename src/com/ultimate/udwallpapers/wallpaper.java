@@ -38,7 +38,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 
-
 public class wallpaper extends Activity implements AdapterView.OnItemSelectedListener,
         OnClickListener {
 
